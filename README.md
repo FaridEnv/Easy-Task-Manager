@@ -35,7 +35,7 @@
 
 &nbsp; - Duplicate  
 
-\• Tasks are stored in a JSON file (`tasks.json`) for persistence  
+• Tasks are stored in a JSON file (`tasks.json`) for persistence  
  
 ---
 
