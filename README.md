@@ -87,11 +87,11 @@ python task_manager.py
 Run the application: python task\_manager.py
 ```
 ```bash
-1. Add Task
-2. View Tasks
-3. Mark Task as Done
-4. Edit Task
-5. Exit
+1. Select option 1 to add a task
+2. Select option 2 to view all tasks
+3. Select option 3 to mark a task as done
+4. Select option 4 to edit a task
+5. Use option 5 to Exit
 
 Choose: 1
 
@@ -103,7 +103,7 @@ Choose: 2
 
 Task List:
 
-1\. organize all my references within Zotero database - Not Done
+1. organize all my references within Zotero database - Not Done
 
 ```
 
@@ -112,6 +112,7 @@ Task List:
 
 ```bash
 task\_manager/
+│
 │── task\_manager.py   # Main program
 │── tasks.json         # Automatically created for saving tasks
 └── readme.md          # This file
