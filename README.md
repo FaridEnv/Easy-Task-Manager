@@ -15,11 +15,13 @@
 1. Features
 2. Installation
 3. How to Run
-4. Project Structure  
-5. Licence 
+4. Menu Options
+5. Example Workflow
+6. Project Structure  
+7. Licence 
 
 ---
-**1.Features**
+**1. Features**
 
 • Add new tasks  
 
@@ -39,13 +41,11 @@
  
 ---
 
-**2.Installation**
+**2. Installation**
 
 1\. Install Python 3: https://www.python.org/downloads/ if not already installed.  
 
 2\. Download or clone this repository:
-
-
 
 ```bash
 
@@ -55,68 +55,48 @@ cd task_manager
 
 ```
 
+---
 
-**3.How to Run**
-
-
+**3. How to Run**
 
 Execute the main script:
-
-
-
 ```bash
 
 python task\_manager.py
 
-
+```
 
 ---
 
+4. Menu Options
 
-
-\## Menu Options
-
-
+```bash
 
 1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Edit Task (Rename, Delete, Duplicate)
+5. Exit
 
-2\. View Tasks
-
-3\. Mark Task as Done
-
-4\. Edit Task (Rename, Delete, Duplicate)
-
-5\. Exit
-
-
+```
 
 ---
 
-
-
-\## Example Workflow
-
-
+**5. Example Workflow**
 
 Run the application: python task\_manager.p
 
-1\. Add Task
-
-2\. View Tasks
-
-3\. Mark Task as Done
-
-4\. Edit Task
-
-5\. Exit
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Edit Task
+5. Exit
 
 Choose: 1
 
 Enter task: organize all my references within Zotero database
 
 Task added.
-
-
 
 Choose: 2
 
@@ -125,31 +105,20 @@ Task List:
 1\. organize all my references within Zotero database - Not Done
 
 
-
 ---
 
 
 
-\## Project Structure
+**6. Project Structure**
 
-
-
+```bash
 task\_manager/
-
 │── task\_manager.py   # Main program
-
 │── tasks.json        # Automatically created for saving tasks
-
 └── readme.md         # This file
-
-
-
+```
 ---
 
-
-
-\## License
-
-
+7. License
 
 This project is open-source and free to use.
