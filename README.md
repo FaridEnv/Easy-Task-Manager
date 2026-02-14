@@ -118,7 +118,6 @@ task\_manager/
 └── readme.md          # This file
 ```
 ---
-
 7. License
 
 This project is open-source and free to use.
