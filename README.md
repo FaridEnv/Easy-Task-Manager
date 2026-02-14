@@ -12,17 +12,14 @@
 
 **Table of Contents**
 
-\- \[Features](#features)  
-\- \[Installation](#installation)  
-\- \[How to Run](#how-to-run)  
-\- \[Usage](#usage)  
-\- \[File Structure](#file-structure)  
-\- \[Notes](#notes)  
+1. Features
+2. Installation
+3. How to Run
+Project Structure  
+Licence 
 
 ---
 **Features**
-
-
 
 \- Add new tasks  
 
