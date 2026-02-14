@@ -1,7 +1,5 @@
 import json
 
-
-
 print("***********************************")
 print("• Easy Task Manager")
 print("• Authors: Djouama Farid, Derias Oussama, Djaramou Hichem")
@@ -14,21 +12,22 @@ print()
 print("  ENJOY!")
 print("***********************************")
 
-
-
-
 FILE_NAME = "tasks.json"
+
 
 def load_tasks():
     try:
         with open(FILE_NAME, "r") as file:
             return json.load(file)
-    except:
+
+    except (FileNotFoundError, json.JSONDecodeError):
         return []
+
 
 def save_tasks(tasks):
     with open(FILE_NAME, "w") as file:
         json.dump(tasks, file)
+
 
 def add_task(tasks):
     task = input("Enter task name please: ").strip()
@@ -39,6 +38,7 @@ def add_task(tasks):
     save_tasks(tasks)
     print("Task added successfully.")
 
+
 def list_tasks(tasks):
     if len(tasks) == 0:
         print("No added tasks yet.")
@@ -47,6 +47,7 @@ def list_tasks(tasks):
     for i, task in enumerate(tasks, start=1):
         status = "Done!" if task["done"] else "Not Done Yet"
         print(f"{i}. {task['title']} - {status}")
+
 
 def mark_done(tasks):
     list_tasks(tasks)
@@ -57,8 +58,9 @@ def mark_done(tasks):
         tasks[number - 1]["done"] = True
         save_tasks(tasks)
         print("Task marked as done.")
-    except:
+    except (ValueError, IndexError):
         print("Invalid task number.")
+
 
 def edit_task(tasks):
     if len(tasks) == 0:
@@ -108,6 +110,7 @@ def edit_task(tasks):
         print("Task duplicated successfully.")
     else:
         print("Invalid choice.")
+
 
 tasks = load_tasks()
 
