@@ -1,12 +1,8 @@
-\Easy Task Manager
+Easy Task Manager
 
+Authors: Djouama Farid, Derias Oussama, Djaramou Hichem
 
-
-
-
-\*\*Author:\*\* Authors: Djouama Farid, Derias Oussama, Djaramou Hichem
-
-\*\*Description:\*\* This program helps you create, edit and organize your tasks for better time management.
+Description: This program helps you create, edit and organize your tasks for better time management.
 
 
 
