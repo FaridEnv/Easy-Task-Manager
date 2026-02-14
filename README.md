@@ -20,17 +20,11 @@
 ### :rocket: 1. Features
 
 • Add new tasks  
-
 • View all tasks  
-
 • Mark tasks as done  
-
 • Edit tasks:
-
 &nbsp; - Rename  
-
 &nbsp; - Delete  
-
 &nbsp; - Duplicate  
 
 • Tasks are stored in a JSON file (`tasks.json`) for persistence  
