@@ -17,7 +17,7 @@
 7. Licence 
 
 ---
-**1. Features**
+### 1. Features
 
 • Add new tasks  
 
@@ -37,7 +37,7 @@
  
 ---
 
-**2. Installation**
+### 2. Installation
 
 1\. Install Python 3: https://www.python.org/downloads/ if not already installed.  
 
@@ -53,7 +53,7 @@ cd task_manager
 
 ---
 
-**3. How to Run**
+### 3. How to Run
 
 Execute the main script:
 ```bash
@@ -64,7 +64,7 @@ python task_manager.py
 
 ---
 
-4. Menu Options
+### 4. Menu Options
 
 ```bash
 
@@ -78,7 +78,8 @@ python task_manager.py
 
 ---
 
-**5. Example Workflow**
+### 5. Example Workflow
+
 ```bash
 Run the application: python task\_manager.py
 ```
@@ -104,7 +105,7 @@ Task List:
 ```
 
 ---
-**6. Project Structure**
+### 6. Project Structure
 
 ```bash
 task\_manager/
@@ -114,6 +115,7 @@ task\_manager/
 └── readme.md          # This file
 ```
 ---
-7. License
+
+### 7. License
 
 This project is open-source and free to use.
