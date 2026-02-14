@@ -53,7 +53,7 @@ cd task_manager
 
 ---
 
-### 3. How to Run
+:arrow_forward: ### 3. How to Run
 
 Execute the main script:
 ```bash
