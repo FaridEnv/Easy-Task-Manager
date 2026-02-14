@@ -19,7 +19,7 @@
 5. Licence 
 
 ---
-**Features**
+**1.Features**
 
 • Add new tasks  
 
@@ -39,7 +39,7 @@
  
 ---
 
-**Installation**
+**2.Installation**
 
 1\. Install Python 3: https://www.python.org/downloads/ if not already installed.  
 
@@ -56,11 +56,7 @@ cd task_manager
 ```
 
 
----
-
-
-
-\## How to Run
+**3.How to Run**
 
 
 
