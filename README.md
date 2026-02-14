@@ -1,6 +1,6 @@
 **Easy Task Manager**
 
-**Authors**: Djouama Farid, Derias Oussama, Djaramou Hichem
+**Authors**: Djouama Farid, Derias Oussama, Djaramou Hichem (PhD Students - FST UMKBiskra)
 
 **Description**: This program helps you create, edit and organize your tasks for better time management.
 
@@ -36,14 +36,8 @@
 &nbsp; - Duplicate  
 
 \- Tasks are stored in a JSON file (`tasks.json`) for persistence  
-
-\- Simple beginner-friendly Python code  
-
-
-
+ 
 ---
-
-
 
 \## Installation
 
@@ -57,9 +51,9 @@
 
 ```bash
 
-git clone <your-repo-url>
+git clone <https://github.com/FaridEnv/Easy-Task-Manager>
 
-cd task\_manager
+cd task_manager
 
 
 
