@@ -21,13 +21,13 @@
 ---
 **Features**
 
-\• Add new tasks  
+• Add new tasks  
 
-\• View all tasks  
+• View all tasks  
 
-\• Mark tasks as done  
+• Mark tasks as done  
 
-\• Edit tasks:
+• Edit tasks:
 
 &nbsp; - Rename  
 
