@@ -62,7 +62,7 @@ cd task_manager
 Execute the main script:
 ```bash
 
-python task\_manager.py
+python task_manager.py
 
 ```
 
@@ -83,9 +83,10 @@ python task\_manager.py
 ---
 
 **5. Example Workflow**
-
-Run the application: python task\_manager.p
-
+```bash
+Run the application: python task\_manager.py
+```
+```bash
 1. Add Task
 2. View Tasks
 3. Mark Task as Done
@@ -104,18 +105,16 @@ Task List:
 
 1\. organize all my references within Zotero database - Not Done
 
+```
 
 ---
-
-
-
 **6. Project Structure**
 
 ```bash
 task\_manager/
 │── task\_manager.py   # Main program
-│── tasks.json        # Automatically created for saving tasks
-└── readme.md         # This file
+│── tasks.json         # Automatically created for saving tasks
+└── readme.md          # This file
 ```
 ---
 
