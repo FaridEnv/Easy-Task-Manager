@@ -21,13 +21,13 @@
 ---
 **Features**
 
-\- Add new tasks  
+\• Add new tasks  
 
-\- View all tasks  
+\• View all tasks  
 
-\- Mark tasks as done  
+\• Mark tasks as done  
 
-\- Edit tasks:
+\• Edit tasks:
 
 &nbsp; - Rename  
 
@@ -35,7 +35,7 @@
 
 &nbsp; - Duplicate  
 
-\- Tasks are stored in a JSON file (`tasks.json`) for persistence  
+\• Tasks are stored in a JSON file (`tasks.json`) for persistence  
  
 ---
 
