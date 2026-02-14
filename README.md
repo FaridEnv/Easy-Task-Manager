@@ -1,4 +1,4 @@
-# Easy Task Manager
+# :pushpin: Easy Task Manager
 
 ##### Authors: Djouama Farid, Derias Oussama, Djaramou Hichem (PhD Students - FST UMKBiskra)
 ##### Description: This program helps you create, edit and organize your tasks for better time management.
@@ -17,7 +17,7 @@
 7. Licence 
 
 ---
-### 1. Features
+### :rocket: 1. Features
 
 • Add new tasks  
 
@@ -37,7 +37,7 @@
  
 ---
 
-### 2. Installation
+### :gear: 2. Installation
 
 1\. Install Python 3: https://www.python.org/downloads/ if not already installed.  
 
@@ -64,7 +64,7 @@ python task_manager.py
 
 ---
 
-### 4. Menu Options
+### :heavy_plus_sign: 4. Menu Options
 
 ```bash
 
@@ -78,7 +78,7 @@ python task_manager.py
 
 ---
 
-### 5. Example Workflow
+### :computer: 5. Example Workflow
 
 ```bash
 Run the application: python task\_manager.py
@@ -105,7 +105,7 @@ Task List:
 ```
 
 ---
-### 6. Project Structure
+### :file_folder: 6. Project Structure
 
 ```bash
 task\_manager/
@@ -116,6 +116,6 @@ task\_manager/
 ```
 ---
 
-### 7. License
+### :memo: 7. License
 
 This project is open-source and free to use.
