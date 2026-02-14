@@ -39,7 +39,7 @@
  
 ---
 
-\## Installation
+\**Installation**
 
 
 
