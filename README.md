@@ -15,8 +15,8 @@
 1. Features
 2. Installation
 3. How to Run
-Project Structure  
-Licence 
+4. Project Structure  
+5. Licence 
 
 ---
 **Features**
