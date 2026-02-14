@@ -113,7 +113,7 @@ Task List:
 ```bash
 task\_manager/
 │
-│── task\_manager.py   # Main program
+│── task_manager.py    # Main program
 │── tasks.json         # Automatically created for saving tasks
 └── readme.md          # This file
 ```
