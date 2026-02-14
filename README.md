@@ -41,7 +41,7 @@
 
 **Installation**
 
-1\. Install Python 3 (https://www.python.org/downloads/) if not already installed.  
+1\. Install Python 3: https://www.python.org/downloads/ if not already installed.  
 
 2\. Download or clone this repository:
 
@@ -53,6 +53,7 @@ git clone <https://github.com/FaridEnv/Easy-Task-Manager>
 
 cd task_manager
 
+```
 
 
 ---
