@@ -1,4 +1,4 @@
-Easy Task Manager
+**Easy Task Manager**
 
 Authors: Djouama Farid, Derias Oussama, Djaramou Hichem
 
