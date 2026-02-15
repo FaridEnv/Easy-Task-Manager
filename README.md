@@ -31,7 +31,7 @@
  
 ---
 
-### :gear: Installation
+### :gear:  Installation
 
 1\. Install Python 3: https://www.python.org/downloads/ if not already installed.  
 
@@ -47,7 +47,7 @@ cd task_manager
 
 ---
 
-### :arrow_forward: How to Run
+### :arrow_forward:  How to Run
 
 Execute the main script:
 ```bash
@@ -58,7 +58,7 @@ python task_manager.py
 
 ---
 
-### :heavy_plus_sign: Menu Options
+### :heavy_plus_sign:  Menu Options
 
 ```bash
 
@@ -72,7 +72,7 @@ python task_manager.py
 
 ---
 
-### :computer: Example Workflow
+### :computer:  Example Workflow
 
 ```bash
 Run the application: python task\_manager.py
@@ -99,7 +99,7 @@ Task List:
 ```
 
 ---
-### :file_folder: Project Structure
+### :file_folder:  Project Structure
 
 ```bash
 task\_manager/
@@ -110,6 +110,6 @@ task\_manager/
 ```
 ---
 
-### :memo: License
+### :memo:  License
 
 This project is open-source and free to use.
