@@ -102,7 +102,7 @@ Task List:
 ### :file_folder:  Project Structure
 
 ```bash
-task\_manager/
+task_manager/
 │
 │── task_manager.py    # Main program
 │── tasks.json         # Automatically created for saving tasks
