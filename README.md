@@ -23,6 +23,7 @@
 • View all tasks  
 • Mark tasks as done  
 • Edit tasks:
+
 &nbsp; - Rename  
 &nbsp; - Delete  
 &nbsp; - Duplicate  
