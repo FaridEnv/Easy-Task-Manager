@@ -2,7 +2,7 @@ import json
 
 print("***********************************")
 print("• Easy Task Manager")
-print("• Authors: Djouama Farid, Derias Oussama, Djaramou Hichem")
+print("• Authors: Djouama Farid, Derias Oussama")
 print("  Environmental Engineering PhD Students, FST, UMK-Biskra")
 print("  (with a little help of ai ;))")
 print()
@@ -136,3 +136,4 @@ while True:
         break
     else:
         print("Invalid choice.")
+
