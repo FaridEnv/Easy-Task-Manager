@@ -1,6 +1,6 @@
 # :pushpin: Easy Task Manager
 
-##### Authors: Djouama Farid, Derias Oussama (PhD Students - FST UMKBiskra)
+##### Authors: Djouama Farid, Derias Oussama (PhD Students GPE - FST UMKBiskra)
 ##### Description: This program helps you create, edit and organize your tasks for better time management.
 
 
